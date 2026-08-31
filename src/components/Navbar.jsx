@@ -1,6 +1,6 @@
 import { useState } from "react";
 import OverlayMenu from "./OverlayMenu";
-import { img } from "framer-motion/client";
+// import { img } from "framer-motion";
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);

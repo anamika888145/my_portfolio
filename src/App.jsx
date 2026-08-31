@@ -20,7 +20,7 @@ export default function App() {
            <Skills/>
            <Projects/>
            <Contact/>
-            <footer/>
+            <Footer/>
         </div>
     );
 }
