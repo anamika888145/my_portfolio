@@ -13,7 +13,6 @@ export default function App() {
         <div className="relative gradient text-white">
             <CustomCursor/>
             <ParticlesBackground />
-
             <Navbar />
            <Home/>
            <About/>
